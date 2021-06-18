@@ -1,0 +1,106 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "name": "Spider-Man: Far from Home",
+      "year": 2019,
+      "runtime": 129,
+      "category": "action",
+      "imdbRating": "7",
+      "release-date": "2019-07-02",
+      "Images": [
+        "https://images-na.ssl-images-amazon.com/images/I/811CP3gzbPL.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Da 5 Bloods Mondial war",
+      "year": 2020,
+      "runtime": 154,
+      "category": [
+        "Adventure"
+      ],
+      "release-date": "2019-09-29",
+      "Images": [
+        "https://collider.com/wp-content/uploads/2020/05/da-5-bloods-netflix-poster-spike-lee.jpeg"
+      ],
+      "imdbRating": "7.9"
+    },
+    {
+      "id": 6,
+      "name": "Captain Marvel",
+      "year": 2019,
+      "runtime": 125,
+      "category": "action",
+      "release-date": "2019-03-08",
+      "imdbRating": "7.5",
+      "Images": [
+        "https://cdn.europosters.eu/image/750/posters/captain-marvel-epic-i71851.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Crip Camp",
+      "year": 2020,
+      "runtime": 106,
+      "category": "documentary",
+      "imdbRating": "7",
+      "release-date": "2020-03-26",
+      "Images": [
+        "https://m.media-amazon.com/images/M/MV5BMTNlMDI3MGYtY2FmNy00ZDdmLTkzZDMtMDg1MWYyM2M4YzQxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Shirley",
+      "year": 2019,
+      "runtime": 107,
+      "category": "drama",
+      "release-date": "2019-07-09",
+      "imdbRating": "6.5",
+      "Images": [
+        "https://m.media-amazon.com/images/M/MV5BOGU5YzRmMDctODIxZi00OGEzLWE4ZDYtOTRlMTNiZjlhMDA5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "The Invisible Man",
+      "year": 2020,
+      "runtime": 124,
+      "category": "horror",
+      "release-date": "2020-02-28",
+      "imdbRating": "5.5",
+      "Images": [
+        "https://upload.wikimedia.org/wikipedia/en/3/3a/The_Invisible_Man_%282020_film%29_-_release_poster.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Aladdin",
+      "year": 2019,
+      "runtime": 128,
+      "category": "adventure",
+      "imdbRating": "6.5",
+      "release-date": "2019-05-22",
+      "Images": [
+        "https://m.media-amazon.com/images/I/71liEu4AGtL._AC_.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Wiem Movie",
+      "year": 2020,
+      "runtime": 131,
+      "category": "Action",
+      "release-date": "2019-05-17",
+      "imdbRating": "9",
+      "Images": [
+        "https://m.media-amazon.com/images/I/71Ucj9yaZiL._AC_SY879_.jpg"
+      ]
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
